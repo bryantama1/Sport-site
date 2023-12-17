@@ -1,2 +1,0 @@
-# Sport-site
-spotsite
